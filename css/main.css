@@ -1,0 +1,26 @@
+.site-header{
+    background-color: rgb(71, 137, 199);
+    color:aliceblue;
+    font-family:monospace;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic{
+    border-radius:50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+.name-color{
+    color:aliceblue;
+}
+.site-header-content{
+    margin: 10px;
+}
+body {
+    margin: 0%;
+
+}
